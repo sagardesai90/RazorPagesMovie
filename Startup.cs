@@ -55,4 +55,6 @@ namespace RazorPagesMovie
             app.UseMvc();
         }
     }
+
+    
 }
